@@ -1,6 +1,12 @@
 # opencode-plugin-openspec
 
+[![GitHub stars](https://img.shields.io/github/stars/mkafw/opencode-plugin-openspec-opsx?style=social)](https://github.com/mkafw/opencode-plugin-openspec-opsx/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/mkafw/opencode-plugin-openspec-opsx?style=social)](https://github.com/mkafw/opencode-plugin-openspec-opsx/network)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 An OpenCode plugin that integrates OpenSpec with full **OPSX** workflow support, providing a dedicated agent for fluid, iterative architecture planning and specification.
+
+⭐ **Star this repo if you find it helpful!**
 
 ## What's OPSX?
 
@@ -221,6 +227,10 @@ This will:
 - Legacy OpenSpec support
 - `openspec-plan` agent
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=mkafw/opencode-plugin-openspec-opsx&type=Date)](https://star-history.com/#mkafw/opencode-plugin-openspec-opsx&Date)
+
 ## License
 
 MIT
@@ -230,3 +240,13 @@ MIT
 - [OpenSpec Repository](https://github.com/Fission-AI/OpenSpec)
 - [OPSX Documentation](https://github.com/Fission-AI/OpenSpec/blob/main/docs/opsx.md)
 - [Plugin Repository](https://github.com/Octane0411/opencode-plugin-openspec)
+
+---
+
+<div align="center">
+
+**⭐ Star this repository if you find it helpful! ⭐**
+
+[Report Bug](https://github.com/mkafw/opencode-plugin-openspec-opsx/issues) · [Request Feature](https://github.com/mkafw/opencode-plugin-openspec-opsx/issues)
+
+</div>
