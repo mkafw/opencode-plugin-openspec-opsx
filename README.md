@@ -4,7 +4,30 @@ An OpenCode plugin that integrates OpenSpec with full **OPSX** workflow support,
 
 ## What's OPSX?
 
-OPSX (OpenSpec Extended) is the new standard workflow for OpenSpec. It's a **fluid, iterative workflow** that replaces the rigid phase-based approach:
+OPSX (OpenSpec Extended) is the new standard workflow for OpenSpec. It's a **fluid, iterative workflow** that replaces the rigid phase-based approach.
+
+### Why OPSX?
+
+```
+Legacy workflow:                      OPSX:
+┌────────────────────────┐           ┌────────────────────────┐
+│  Hardcoded in package  │           │  schema.yaml           │◄── You edit this
+│  (can't change)        │           │  templates/*.md        │◄── Or this
+│        ↓               │           │        ↓               │
+│  Wait for new release  │           │  Instant effect        │
+│        ↓               │           │        ↓               │
+│  Hope it's better      │           │  Test it yourself      │
+└────────────────────────┘           └────────────────────────┘
+```
+
+**OPSX opens it up.** Now anyone can:
+
+1. **Experiment with instructions** — edit a template, see if the AI does better
+2. **Test granularly** — validate each artifact's instructions independently
+3. **Customize workflows** — define your own artifacts and dependencies
+4. **Iterate quickly** — change a template, test immediately, no rebuild
+
+### Workflow Comparison
 
 ```
 Legacy OpenSpec:                    OPSX:
